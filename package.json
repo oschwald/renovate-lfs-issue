@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@maxmind/geoip2-node": "1.0.0"
+    "@maxmind/geoip2-node": "1.5.0"
   },
   "name": "renovate-lfs-issue",
   "version": "1.0.0",
